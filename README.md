@@ -55,5 +55,4 @@ making high-quality education accessible and enjoyable for both students and tea
 
 
 Technology Used : 
-Springboot
-Angular
+Springboot, Angular
