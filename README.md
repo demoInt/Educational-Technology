@@ -52,3 +52,8 @@ This application serves as an all-in-one solution, bringing together curriculum 
 The Educational Technology Application is a comprehensive solution that empowers teachers to create rich, interactive learning experiences and enables students to take charge of their education. 
 By combining traditional educational tools with modern, digital learning features, the platform fosters a collaborative, flexible, and engaging environment where everyone can thrive. This EdTech application redefines the learning process, 
 making high-quality education accessible and enjoyable for both students and teachers.
+
+
+Technology Used : 
+Springboot
+Angular
